@@ -8,7 +8,7 @@ byte6:
 byte7:
 byte8:
 byte9: cat /home/byte9/-
-byte10:
+byte10: sort names.txt | head names.txt -n 67 | tail -n 1
 byte11:
 byte12:
 byte13:
