@@ -26,7 +26,7 @@ byte3: <     And all the men and women merely programmers;
 byte4: the_triwizard_cup_is_yours_watch_out_for_the_horntail
 byte5: Here is your key: sdi2600037_1793120402_2034366618_94_65_88_145_51427_22
 byte6: unzip_whenever_you_feel_a_little_compressed
-byte7: 
+byte7: tar_jokes_wont_stick
 byte8: 
 byte9: 
 byte10: 
