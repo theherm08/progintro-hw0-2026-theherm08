@@ -7,7 +7,7 @@ byte5:
 byte6:
 byte7:
 byte8:
-byte9:
+byte9: cat /home/byte9/-
 byte10:
 byte11:
 byte12:
