@@ -12,7 +12,7 @@ byte10: sort names.txt | head names.txt -n 67 | tail -n 1
 byte11: sort births.txt | uniq -c | sort -n
 byte12: cd .cache, pwd tuxsay, basename /home/byte12/.cache
 byte13: ls -a, cd repo, git log
-byte14:
+byte14: cd repo, git log -p
 byte15:
 byte16:
 byte17:
