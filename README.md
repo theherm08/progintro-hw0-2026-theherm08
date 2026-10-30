@@ -9,7 +9,7 @@ byte7:
 byte8:
 byte9: cat /home/byte9/-
 byte10: sort names.txt | head names.txt -n 67 | tail -n 1
-byte11:
+byte11: sort births.txt | uniq -c | sort -n
 byte12:
 byte13:
 byte14:
