@@ -32,7 +32,21 @@ byte9: you_re_on_the_right_path
 byte10: Kimberlee
 byte11: 45 Peta
 byte12: .cache
-byte13: 
+byte13: commit ea62c4661549341b3034ca2116cad72eadec180c (HEAD -> master)
+Author: Takis Lavrakis <lavrakis@gmail.com>
+Date:   Sun Oct 12 03:53:12 2025 -0400
+
+    Add a brief description for the repo.
+
+    More to be added later on.
+
+commit 860f32c70e2caaa7a3cb179bfb0a0199a273fbed
+Author: Thanos Barbounis <barbounis@gmail.com>
+Date:   Sun Oct 12 03:48:31 2025 -0400
+
+    Created my README file.
+
+    Reminder to self: descriptive_git_commit_messages_are_great
 byte14: 
 byte15: 
 byte16: 
