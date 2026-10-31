@@ -15,4 +15,4 @@ byte13: ls -a, cd repo, git log
 byte14: cd repo, git log -p
 byte15: ls -a, ./.exit_code, echo $?
 byte16: ./noisy 2> /dev/null
-byte17:
+
